@@ -9,8 +9,11 @@ Google Colab project Link [ https://colab.research.google.com/drive/1McffZ3OCz-h
 The project is in Google Colab with the following libraries imported:
 
 !pip install pystan
+
 !pip install fbprophet
+
 !pip install hvplot
+
 !pip install holoviews
 
 * [Pandas] 
