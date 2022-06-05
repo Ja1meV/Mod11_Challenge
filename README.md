@@ -40,7 +40,7 @@ Jaime_Villafuerte20@yahoo.com
 
 ## License
 
-Rice Bootcamp
+Rice Fintech Bootcamp
 
 
 
