@@ -2,8 +2,7 @@
 
 Configure in Google Colab workspace to produce a jupyter notebook that contains data preparation, analysis, and visualizations for all the time series data that the company needs to understand. Using prophet for better forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects.
 
-Google Colab project 11 challenge Link:
-[ https://colab.research.google.com/drive/1McffZ3OCz-h-OpTmJl61BUQB3GmZpG8D#scrollTo=UqC65Utrf5-b ]
+Google Colab project Link [ https://colab.research.google.com/drive/1McffZ3OCz-h-OpTmJl61BUQB3GmZpG8D#scrollTo=UqC65Utrf5-b ]
 
 ## Technologies
 
