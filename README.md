@@ -23,7 +23,9 @@ The project is in Google Colab with the following libraries imported:
 
 * [Hvplot] 
 
-## Usage
+## Visual examples:
+
+![Screen Shot 2022-06-05 at 10 15 53 AM](https://user-images.githubusercontent.com/101314548/172057522-0dc6ee4a-3e73-401e-9d70-a2b0a3c12cc8.png)
 
 ![Screen Shot 2022-06-05 at 10 02 05 AM](https://user-images.githubusercontent.com/101314548/172057392-4dcbecae-9dca-4551-b035-4443eb64a9aa.png)
 
